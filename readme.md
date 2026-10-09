@@ -37,6 +37,7 @@ Live npm download counts, refreshed automatically (rolling 18-month window).
 
 | Plugin | Downloads | What it does |
 | --- | --- | --- |
+| [**react-submit-flow**](https://github.com/Mhmod-Hsn/react-submit-flow) | [![npm downloads](https://img.shields.io/npm/d18m/react-submit-flow?label=downloads&logo=npm)](https://www.npmjs.com/package/react-submit-flow) | Typed async action flows with accessible, customizable React feedback. |
 | [**Payload Audit Logs**](https://github.com/Mhmod-Hsn/payload-audit-logs) | [![npm downloads](https://img.shields.io/npm/d18m/payload-audit-logs?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-audit-logs) | Configurable CRUD audit trails with change history and user attribution. |
 | [**Payload Advanced Sidebar**](https://github.com/Mhmod-Hsn/Payload-Advanced-Sidebar) | [![npm downloads](https://img.shields.io/npm/d18m/payload-advanced-sidebar?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-advanced-sidebar) | Custom navigation groups, icons, and links for the Payload admin. |
 | [**Payload Notifications**](https://github.com/Mhmod-Hsn/payload-plugin-notifications) | [![npm downloads](https://img.shields.io/npm/d18m/payload-plugin-notifications?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-plugin-notifications) | A durable, recipient-scoped notifications inbox for Payload CMS 3. |
