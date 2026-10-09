@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mahmoud Hassan — Senior Frontend Engineer</title>
+  <desc id="desc">A terminal-inspired profile banner about making complex workflows feel effortless with Next.js, React, and Payload CMS.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827" />
+      <stop offset="1" stop-color="#17122c" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4" />
+      <stop offset="1" stop-color="#a78bfa" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)" />
+  <circle cx="48" cy="44" r="7" fill="#fb7185" />
+  <circle cx="74" cy="44" r="7" fill="#fbbf24" />
+  <circle cx="100" cy="44" r="7" fill="#34d399" />
+  <text x="132" y="50" fill="#94a3b8" font-family="SFMono-Regular,Consolas,monospace" font-size="16">mahmoud@build-mode ~</text>
+  <path d="M60 112l18 16-18 16" fill="none" stroke="#5eead4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" />
+  <text x="104" y="142" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Mahmoud Hassan</text>
+  <text x="62" y="202" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">I make complex workflows feel effortless.</text>
+  <text x="64" y="239" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Senior Frontend Engineer <tspan fill="#64748b">·</tspan> Open-Source Builder <tspan fill="#64748b">·</tspan> Mentor</text>
+  <rect x="62" y="267" width="8" height="8" rx="2" fill="#5eead4" />
+  <text x="84" y="278" fill="#5eead4" font-family="SFMono-Regular,Consolas,monospace" font-size="18">Next.js + React + TypeScript  //  Payload CMS plugins</text>
+  <text x="62" y="326" fill="#64748b" font-family="SFMono-Regular,Consolas,monospace" font-size="15">Cairo, Egypt  /  CYSHIELD  /  Open-source creator</text>
+  <path d="M985 260c38-80 85-80 125 0" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-width="3" opacity=".65" />
+  <circle cx="1048" cy="188" r="54" fill="#5eead4" opacity=".08" />
+  <circle cx="1075" cy="173" r="5" fill="#5eead4" />
+  <circle cx="1100" cy="190" r="5" fill="#a78bfa" />
+  <circle cx="1120" cy="218" r="5" fill="#5eead4" />
+</svg>
