@@ -37,6 +37,7 @@ Live npm download counts, refreshed automatically (rolling 18-month window).
 
 | Plugin | Downloads | What it does |
 | --- | --- | --- |
+| [**payload-plugin-dictionary**](https://github.com/Mhmod-Hsn/payload-plugin-dictionary) | [![npm downloads](https://img.shields.io/npm/d18m/payload-plugin-dictionary?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-plugin-dictionary) | Migrates static front-end translation keys (en.json, ar.json, ...etc) into your database with easy editable/cache. |
 | [**react-submit-flow**](https://github.com/Mhmod-Hsn/react-submit-flow) | [![npm downloads](https://img.shields.io/npm/d18m/react-submit-flow?label=downloads&logo=npm)](https://www.npmjs.com/package/react-submit-flow) | Typed async action flows with accessible, customizable React feedback. |
 | [**Payload Audit Logs**](https://github.com/Mhmod-Hsn/payload-audit-logs) | [![npm downloads](https://img.shields.io/npm/d18m/payload-audit-logs?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-audit-logs) | Configurable CRUD audit trails with change history and user attribution. |
 | [**Payload Advanced Sidebar**](https://github.com/Mhmod-Hsn/Payload-Advanced-Sidebar) | [![npm downloads](https://img.shields.io/npm/d18m/payload-advanced-sidebar?label=downloads&logo=npm)](https://www.npmjs.com/package/payload-advanced-sidebar) | Custom navigation groups, icons, and links for the Payload admin. |
