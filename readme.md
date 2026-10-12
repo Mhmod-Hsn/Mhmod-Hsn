@@ -101,7 +101,7 @@ Live npm download counts, refreshed automatically (rolling 18-month window).
 
 ## 🤝 Connect
 
-- 🌐 [hmodhsn.tech](https://hmodhsn.tech)
+- 🌐 [mhmodhsn.tech](https://mhmodhsn.tech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mhmod-hsn)
 - 🧑‍💻 [All repositories](https://github.com/Mhmod-Hsn?tab=repositories)
 
